@@ -8,3 +8,5 @@ module "vpc" {
   private_subnet_db = var.private_subnet_db
   azlist            = var.azlist
 }
+
+/*vpc call*/
