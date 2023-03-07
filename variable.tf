@@ -24,9 +24,3 @@ variable "azlist" {
   description = "Availability Zone list where you deploy your infra"
 }
 
-variable "aws_access_key"{
-default = "AKIAZHNJZHQ74HB52I6Q"
-}
-variable "aws_secret_key"{
-default = "kCLePkoZv9oVp7+PW496nQL3PAdbjXPz1526uX3D"
-}
